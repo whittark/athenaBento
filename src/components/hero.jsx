@@ -8,7 +8,7 @@ export default class Hero extends Component {
             <div className="row align-items-center justify-content-right">
               <div className="col-sm-1 col-sm-11 mt-sm-5 text-right">
               <p id="purple-name"><b>athena</b>Bento</p>
-                <h1 data-aos="fade-up">Say yum to good health</h1>
+                <h1 data-aos="fade-up" id="purple-head">Say yum to good health</h1>
                 <p id="purple-h"><b>Get delicious foods tailored to your</b></p>
                 <p id="purple-h"><b>health profile and delivered to your door.</b></p>
                 <p id="purple-h"><b>Choose items selected for</b></p>

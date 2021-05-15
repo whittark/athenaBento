@@ -2164,8 +2164,14 @@ figure figcaption {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); }
 
-  @media screen and (max-width: 480px){
+  @media screen and (max-width: 600px){
     #purple-h {
         color: white;
     }
+    #purple-head {
+      color: white;
+    }
+    #purple-name {
+      color: white;
+  }
 }
