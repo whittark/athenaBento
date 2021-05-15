@@ -17,7 +17,7 @@ export default class Featured extends Component {
                 </div>
                 <div className="col-lg-2 text-left" data-aos="fade">
                 </div>
-                <div className="col-sm-8 text-left" data-aos="fade">
+                <div className="col-md-7 text-center" data-aos="fade">
                   <p>Complete a questionnaire to define your food preferences. Select suggested items from participating grocers, restaurants, or meal delivery services to receive items at a discount. Pick up the wholesome meals and groceries you select or have them delivered directly to your door.</p>
                   <p><b>Ask your healthcare provider if you’re eligible to join.</b></p>
                 </div>
