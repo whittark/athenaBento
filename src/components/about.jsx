@@ -21,6 +21,9 @@ export default class About extends Component {
               <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>When you make healthy food choices, everyone saves. <b>athenaBento</b> passes these savings on to you and our partners</h2>
               <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}> in the program. Get delectable, healthful meals without the effort, guesswork, or cost. 
               </h2>
+              <div className="col-12 text-center" data-aos="fade-up" data-aos-delay>
+                 <img src="images/sushi3.gif" alt="Image" className="img-fluid" />
+              </div>
               <span></span>
               <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}><b>Select from the options below to get started.</b> </h2>
             </div>
