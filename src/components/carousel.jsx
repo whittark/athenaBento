@@ -34,7 +34,7 @@ export default class Carousel extends Component {
                 </div>
                 <div>
                   <h2 className="section-title mb-3">Nutritionists</h2>
-                  <p className="lead">Nutritionists submit healthy menu items and grocery lists in the bento portal. These appear on parter sites as discounted options for clients (healthy eaters).</p>
+                  <p className="lead">Nutritionists submit healthy menu items and grocery lists in the bento portal. These appear on partner sites as discounted options for clients (healthy eaters).</p>
                   <p><a href="#ai-section" className="btn btn-primary mr-2 mb-2">Learn more about bento nutritionists</a></p>
                 </div>
                 <div>
