@@ -20,7 +20,9 @@ export default class CyberSecurity extends Component {
             <div className="col-sm-8 text-left" data-aos="fade">
               <p>If you are a food delivery service or grocer, you are perfectly poised to help people live healthier lives. Imagine leading the charge while growing your customer base AND collecting subsidies for your participation.</p>
               <p><b>Sign up</b> to learn more or <b>Sign In</b> to  view customer participation or track reimbursement subsidies.</p>
-              <img src="images/cyber_security-sm.jpg" alt="Image" class="center" style="max-width: 60%; height: auto" /> 
+              <div className="col-12 text-center" data-aos="fade">
+                <img src="images/cyber_security-sm.jpg" alt="Image" /> 
+              </div>
             </div>
           </div>
         </div></section>
