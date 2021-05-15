@@ -20,7 +20,7 @@ export default class BigData extends Component {
             <div className="col-sm-8 text-left" data-aos="fade">
               <p>You know exactly which foods will make your clients glow! Designate the menu or grocery items ideal for bento  clients. The items you select appear with icons in online grocery or delivery menu pages for easy identification.</p>
               <p><b>Sign up</b> to learn more or <b>Sign In</b> to designate menu or grocery recommendations.</p>
-              <img src="images/human_centered_ai-sm.png" alt="Image" className="img-fluid" /> 
+              <img src="images/human_centered_ai-sm.png" alt="Image" class="center" style="max-width: 60%; height: auto" /> 
             </div>
           </div>
         </div></section>

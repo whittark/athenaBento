@@ -20,7 +20,7 @@ export default class Featured extends Component {
                 <div className="col-sm-8 text-left" data-aos="fade">
                   <p>Complete a questionnaire to define your food preferences. Select suggested items from participating grocers, restaurants, or meal delivery services to receive items at a discount. Pick up the wholesome meals and groceries you select or have them delivered directly to your door.</p>
                   <p><b>Ask your healthcare provider if you’re eligible to join.</b></p>
-                  <img src="images/talent_pipelines-sm.jpg" alt="Image" className="img-fluid" /> 
+                  <img src="images/talent_pipelines-sm.jpg" alt="Image" class="center" style="max-width: 60%; height: auto" /> 
                 </div>
               </div>
             </div></section>
