@@ -19,7 +19,8 @@ export default class Culture extends Component {
             </div>
             <div className="col-sm-8 text-left" data-aos="fade">
               <p>As payers, you are champions of preventative care. Accessible, nutritious meals result in lower healthcare costs for everyone.</p>
-              <p><b>Sign up</b> to learn more or <b>Sign In</b> to access your program dashboard and track subsidies for participation.</p> 
+              <p><b>Sign up</b> to learn more or <b>Sign In</b> to access your program dashboard and track subsidies for participation.</p>
+              <img src="images/leveraging_data_cscience-sm.jpg" alt="Image" className="img-fluid" /> 
             </div>
           </div>
         </div></section>
