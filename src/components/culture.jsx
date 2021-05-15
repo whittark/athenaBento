@@ -20,8 +20,10 @@ export default class Culture extends Component {
             <div className="col-sm-8 text-left" data-aos="fade">
               <p>As payers, you are champions of preventative care. Accessible, nutritious meals result in lower healthcare costs for everyone.</p>
               <p><b>Sign up</b> to learn more or <b>Sign In</b> to access your program dashboard and track subsidies for participation.</p>
-              <img src="images/leveraging_data_cscience-sm.jpg" alt="Image" class="center" style="max-width: 60%; height: auto" /> 
             </div>
+              <div className="col-12 text-center" data-aos="fade">
+                <img src="images/leveraging_data_cscience-sm.jpg" alt="Image" /> 
+              </div>
           </div>
         </div></section>
       <section>
