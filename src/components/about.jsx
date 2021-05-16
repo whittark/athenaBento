@@ -8,8 +8,7 @@ export default class About extends Component {
       <div className="container">
       <div className="col-sm-12 text-center">
               <h2 className="section-title-w mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>Dig in to get your glow on.</h2>
-              <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>Feeling great begins with delicious, nutritious foods. </h2>
-              <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>But in our fast-paced culture, getting the right nutrition can be a challenge. </h2>
+              <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>In our fast-paced culture, getting the right nutrition can be a challenge. </h2>
               <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}><b>athenaBento</b> has partnered with healthcare providers, nutitionists, grocers, </h2>
               <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>and the best chefs in your town to deliver meals </h2>
               <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>and pantry suggestions tailored for you.</h2>
