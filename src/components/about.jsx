@@ -25,6 +25,7 @@ export default class About extends Component {
               <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}><b>Scroll down to learn more and get started.</b> </h2>
               <div className="col-12 text-center" data-aos="fade-up" data-aos-delay>
                 <img src="images/sushi8.gif" alt="Image" className="img-fluid" /> 
+                <p></p>
               </div>
             </div>
             
