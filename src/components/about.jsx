@@ -17,7 +17,8 @@ export default class About extends Component {
                  <img src="images/sushi2.gif" alt="Image" className="img-fluid" />
               </div>
               <h2 className="section-title-w mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>Here's what's most delicious.</h2>
-              <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>When you make healthy food choices, everyone saves. <b>athenaBento</b> passes these savings on to you and our partners.</h2>
+              <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>When you make healthy food choices, everyone saves. </h2>
+              <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}><b>athenaBento</b> passes these savings on to you and our partners.</h2>
               <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}> Get delectable, healthful meals without the effort, guesswork, or cost. 
               </h2>
               <span></span>
