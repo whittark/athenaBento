@@ -12,7 +12,7 @@ export default class About extends Component {
               healthcare providers,</h2>
               <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>nutritionists, grocers, and the best chefs in your town to deliver designer meals and 
               </h2>
-              <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}> pantry suggestions tailored for your best self.</h2>
+              <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}> pantry suggestions tailored for you.</h2>
               <span></span>
               <div className="col-12 text-center" data-aos="fade-up" data-aos-delay>
                  <img src="images/sushi2.gif" alt="Image" className="img-fluid" />
