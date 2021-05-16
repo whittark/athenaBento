@@ -22,7 +22,7 @@ export default class Culture extends Component {
                 care. Accessible, nutritious meals result in 
                 lower healthcare costs for everyone.</p>
               <p><b>Sign up</b> to learn more or <b>Sign In</b> 
-              to access your program dashboard and track 
+               to access your program dashboard and track 
               subsidies for participation.</p>
             </div>
             <div className="col-12 text-center" data-aos="fade">
