@@ -39,7 +39,8 @@ export default class Carousel extends Component {
                 </div>
                 <div>
                   <h2 className="section-title mb-3">Payers</h2>
-                  <p className="lead">Insurers help subsidize the program to promote community wellness, which results in fewer claims. Payers receive government funding for participation.</p>
+                  <p className="lead">Insurers subsidize the program to promote wellness, which results in fewer claims. 
+                  They receive government funding for participation.</p>
                   <p><a href="#culture-section" className="btn btn-primary mr-2 mb-2">Learn more about bento payers</a></p>
                 </div>
                 <div>
