@@ -2164,7 +2164,7 @@ figure figcaption {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); }
 
-  @media screen and (max-width: 600px){
+  @media screen and (max-width: 1210px){
     #purple-h {
         color: white;
     }
