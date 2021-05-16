@@ -8,7 +8,8 @@ export default class About extends Component {
       <div className="container">
       <div className="col-sm-12 text-center">
               <h2 className="section-title-w mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>Dig in to get your glow on.</h2>
-              <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>Feeling great begins with delicious, nutritious meals. </h2>
+              <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>Feeling great begins with delicious, nutritious foods. </h2>
+              <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}>But in our fast-paced culture, getting the right nutrition can be a challenge. </h2>
               <h2 className="section-title-w2 mb-6" data-aos="fade-up" data-aos-delay style={{fontSize: '40px'}}><b>athenaBento</b> has partnered with healthcare providers, nutitionists, grocers, and the best chefs in your town to deliver meals and pantry suggestions tailored for you.</h2>
               <div className="col-12 text-center" data-aos="fade-up" data-aos-delay>
                  <img src="images/sushi2.gif" alt="Image" className="img-fluid" />
