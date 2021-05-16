@@ -201,7 +201,7 @@ jQuery(document).ready(function($) {
 	    loop: true,
 			stagePadding: 0,
 	    margin: 0,
-	    smartSpeed: 1000,
+	    smartSpeed: 1500,
 	    autoplay: true,
 	    pauseOnHover: true,
 	    onDragged: function(event) {
@@ -219,7 +219,7 @@ jQuery(document).ready(function($) {
 	    loop: true,
 			stagePadding: 0,
 	    margin: 0,
-	    smartSpeed: 1000,
+	    smartSpeed: 1500,
 	    autoplay: true,
 	    pauseOnHover: true,
 	    onDragged: function(event) {
