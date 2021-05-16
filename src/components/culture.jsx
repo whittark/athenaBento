@@ -18,7 +18,7 @@ export default class Culture extends Component {
             <div className="col-lg-2 text-left" data-aos="fade">
             </div>
             <div className="col-md-8 text-center" data-aos="fade">
-              <p>As payers, you are champions of preventative 
+              <p>As payers, you're champions of preventative 
                 care. Accessible, nutritious meals result in 
                 lower healthcare costs for everyone.</p>
               <p><b>Sign up</b> to learn more or <b>Sign In </b> 

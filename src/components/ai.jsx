@@ -18,7 +18,7 @@ export default class AI extends Component {
             <div className="col-lg-2 text-left" data-aos="fade">
             </div>
             <div className="col-md-8 text-center" data-aos="fade">
-              <p>We don't need to tell you that better nutrition results in better health outcomes for patients. You are one of the providers or healthcare orgs that is paving the way for wellness care. Suggest the <b>athenaBento</b> program to any patient who would like easier access to healthy meals for themselves and their families.</p>
+              <p>We don't need to tell you that better nutrition results in better health outcomes for patients. You're one of the providers or healthcare orgs that is paving the way for wellness care. Suggest the <b>athenaBento</b> program to any patient who would like easier access to healthy meals for themselves and their families.</p>
               <p><b>Sign up</b> to learn more or <b>Sign In</b> to track program progress or subsidies for your participation.</p> 
             </div>
             <div className="col-12 text-center" data-aos="fade">
