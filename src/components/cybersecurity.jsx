@@ -25,7 +25,7 @@ export default class CyberSecurity extends Component {
                 customer base. You could also recieve 
                 subsidies for your participation.</p>
               <p><b>Sign up</b> to learn more or 
-               <b>Sign In</b> to view customer participation 
+              <b> Sign In</b> to view customer participation 
               or track reimbursement subsidies.</p>
             </div>
             <div className="col-12 text-center" data-aos="fade">

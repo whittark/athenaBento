@@ -21,7 +21,7 @@ export default class Culture extends Component {
               <p>As payers, you are champions of preventative 
                 care. Accessible, nutritious meals result in 
                 lower healthcare costs for everyone.</p>
-              <p><b>Sign up</b> to learn more or <b>Sign In</b> 
+              <p><b>Sign up</b> to learn more or <b>Sign In </b> 
                to access your program dashboard and track 
               subsidies for participation.</p>
             </div>
