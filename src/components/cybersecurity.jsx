@@ -18,7 +18,7 @@ export default class CyberSecurity extends Component {
             <div className="col-lg-2 text-left" data-aos="fade">
             </div>
             <div className="col-md-8 text-center" data-aos="fade">
-              <p>If you're a food delivery service, restauranteur, 
+              <p>If you're a food delivery service, restauranteur, 
                 or grocer, you are perfectly poised to help people 
                 live healthier lives. Imagine leading the charge for 
                 better nutrition while growing your customer base. 
