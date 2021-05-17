@@ -45,7 +45,7 @@ export default class Carousel extends Component {
                 </div>
                 <div>
                   <h2 className="section-title mb-3">Healthy Eaters</h2>
-                  <p className="lead">Bento's healthy eaters receive a questionnaire to fine-tune food preferences. They then select from discounted, wholesome options indicated on partner sites.</p>
+                  <p className="lead">Participants receive a questionnaire to fine-tune food preferences. They then select from discounted, wholesome options indicated on partner sites.</p>
                   <p><a href="#feature-section" className="btn btn-primary mr-2 mb-2">Learn more about healthy eaters</a></p>
                 </div>
                 <div>
