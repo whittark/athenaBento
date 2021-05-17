@@ -34,7 +34,7 @@ export default class Carousel extends Component {
                 </div>
                 <div>
                   <h2 className="section-title mb-3">Nutritionists</h2>
-                  <p className="lead">Nutritionists submit healthy menu items and grocery lists, which appear as discounted options for healthy eaters on partner sites.</p>
+                  <p className="lead">Nutritionists submit healthy menu items and grocery lists, which appear as discounted options for participants on partner sites.</p>
                   <p><a href="#bigdata-section" className="btn btn-primary mr-2 mb-2">Learn more about bento nutritionists</a></p>
                 </div>
                 <div>
@@ -45,7 +45,7 @@ export default class Carousel extends Component {
                 </div>
                 <div>
                   <h2 className="section-title mb-3">Healthy Eaters</h2>
-                  <p className="lead">Participants receive a questionnaire to fine-tune food preferences. They then select from discounted, wholesome options indicated on partner sites.</p>
+                  <p className="lead">Participants indicate food preferences in a questionnaire. When they select healthy options indicated on partner sites, they receive them at a discount.</p>
                   <p><a href="#feature-section" className="btn btn-primary mr-2 mb-2">Learn more about healthy eaters</a></p>
                 </div>
                 <div>
